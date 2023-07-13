@@ -1,4 +1,4 @@
 - 👋 Hi I’m @Nehajillala
-- 👀 I’m interested in backend(database)
+- 👀 I’m interested in coding and backend(database)
 - 🌱 I’m currently learning Coding subjects like Java Operating System 
 - 💞️ I’m looking to collaborate on coding or database related things 
