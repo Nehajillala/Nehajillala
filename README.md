@@ -1,4 +1,4 @@
 - 👋 Hi I’m @Nehareddyjillala
-- 👀 Iam persuing Btech in Vignana Bharathi Institute Of Technology
+- 👀 Iam pursuing Btech in Vignana Bharathi Institute Of Technology
 - 🌱 I’m currently learning Data Analytics Course.
 - 💞 I’m interested in data analytics and Python Programming and looking for internships for gaining experience and deep knowledge.
